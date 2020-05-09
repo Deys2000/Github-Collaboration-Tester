@@ -5,7 +5,7 @@ public class JokeBank {
 	
 	public JokeBank() {
 		
-	jokeList = new String[5];
+	String jokeList = new String[5];
 	
 	//make 3 more jokes and then run a loop in the main class to run em all
 	//can add anything cool that you want to but keep it simple, our
